@@ -1,4 +1,4 @@
-# -Colocar o arquivo excel na pasta "file" na raiz da instalação
+# -Colocar o arquivo excel template preenchido na pasta "file" na raiz da instalação
 
 ### ./file/Seu arquivo para importação.xlsx
 
